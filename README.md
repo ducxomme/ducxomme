@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me: **ducxomme@gmail.com**
+- 📫 How to reach me: **ducnh.works@gmail.com**
 
-- 📄 Know about my experiences: [Click here](/)
+- 📄 Know about my experiences: [Click here](https://ducxomme.github.io/)
 
 - 🌱 I’m currently learning **PMP**
 
