@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [Click here](https://ducxomme.github.io/)
 
-- 🌱 I’m currently learning **PMP**
+- 🌱 I’m **PMP®** holder 
 
 
 
